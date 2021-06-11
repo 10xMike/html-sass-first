@@ -1,0 +1,7 @@
+:root {
+  --main-color: navy;
+}
+
+h1, p, small {
+  color: var(--main-color);
+}
