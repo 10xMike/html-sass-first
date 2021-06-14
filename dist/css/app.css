@@ -1,7 +1,9 @@
 :root {
   --main-color: navy;
+  --secondary-color: #f8abb8;
 }
 
-h1, p, small {
+h1, p, button {
   color: var(--main-color);
+  border: 1px solid var(--secondary-color);
 }
